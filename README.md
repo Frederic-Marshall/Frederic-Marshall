@@ -1,16 +1,27 @@
-## Hi there 👋
+## Артем Кравцов, Fullstack-разработчик
 
-<!--
-**Frederic-Marshall/Frederic-Marshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 Работаю со стеком **PHP 7+**, **Laravel 7+**, **Vue 2/3**
+- 💡 Обучаюсь **построению архитектуры веб-приложений**, **инфраструктуре** и **разработке CMS/интеграций**.
 
-Here are some ideas to get you started:
+## 🧠Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** PHP 7+, Laravel, Yii (Yii2)
+- **Frontend:** Vue 3, React (базово), Alpine.js, Vite
+- **CMS:** WordPress, OpenCart
+- **Инфраструктура:** Linux, Nginx, Docker (compose)  
+- **Прочее:** Git, MVC, Принципы ООП (SOLID, DRY, KISS и пр.)
+
+## 📫Контакты
+
+- Email: [artemkrak222@gmail.com](mailto:artemkrak222@gmail.com)
+- Telegram: [@lotusflowers](https://t.me/lotusesflower)
+
+## Мой стек:
+
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Vue](https://skillicons.dev/icons?i=vue)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
