@@ -5,7 +5,7 @@
 
 ### 🧠Навыки
 - **Backend:** PHP 7+, Laravel, Yii (Yii2)
-- **Frontend:** Vue 3, React (базово), Alpine.js, Vite
+- **Frontend:** Vue 2-3, Alpine.js, Vite
 - **CMS:** WordPress, OpenCart
 - **Инфраструктура:** Linux, Nginx, Docker (compose)  
 - **Прочее:** Git, MVC, Принципы ООП (SOLID, DRY, KISS и пр.)
