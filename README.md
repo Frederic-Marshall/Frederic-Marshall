@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB3YjZ1enZidXljOHU2dGs5bGx4cTI2bG5obTU0aGV2aHB6c2RzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVlZmtmYXdkOWxqYWQweGc5cXMwZnBnNGVzNTlmNHU3eXN2anprZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/артем-кравцов-171824401/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
@@ -12,11 +13,9 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Frederic-Marshall&style=flat-square&color=blue" alt=""/>
 </div>
-
 
 ## Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
