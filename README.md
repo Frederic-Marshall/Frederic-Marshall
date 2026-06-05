@@ -42,12 +42,13 @@
 ### :hammer_and_wrench: Языки и инструменты:
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Vue](https://skillicons.dev/icons?i=vue)
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Vue](https://skillicons.dev/icons?i=vue)
 ![AlpineJS](https://skillicons.dev/icons?i=alpinejs)
+<br>
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Docker](https://skillicons.dev/icons?i=docker)
